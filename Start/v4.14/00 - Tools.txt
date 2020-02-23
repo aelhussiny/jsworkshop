@@ -1,0 +1,8 @@
+- Visual Studio Code
+    - Extensions:
+        - Prettier
+        - Live Server
+- Google Chrome
+- Postman
+- Optional: Instant Eyedropper
+- Access to JSAPI Reference (https://developers.arcgis.com/javascript/)

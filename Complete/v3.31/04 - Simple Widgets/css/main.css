@@ -1,0 +1,60 @@
+#map,
+body {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    margin: 0px;
+}
+
+#legendDiv {
+    background-color: #fff;
+    position: absolute !important;
+    z-index: 99;
+    bottom: 10px;
+    left: 20px;
+    border: solid black 1px;
+}
+
+#basemapGalleryContainer {
+    background-color: #fff;
+    position: absolute !important;
+    z-index: 100;
+    top: 90px;
+    left: 20px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+
+#basemapToggler {
+    margin-top: 8px;
+    margin-bottom: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+#basemapGalleryDiv {
+    display: none;
+}
+
+#locateBtnDiv {
+    background-color: #fff;
+    position: absolute !important;
+    z-index: 90;
+    top: 130px;
+    left: 19px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+
+#homeBtnDiv {
+    background-color: #fff;
+    position: absolute !important;
+    z-index: 90;
+    top: 170px;
+    left: 20px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
